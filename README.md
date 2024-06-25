@@ -24,5 +24,5 @@ This project is a simple Bank Management System implemented in Java using Swing 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
-   cd bank-management-system
+   git clone (https://github.com/MEDIDI-NAGENDRA/BankManagementSystem.git)
+   cd BankManagementSystem
